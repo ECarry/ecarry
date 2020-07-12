@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on System Operation Engineer
 - 🌱 I’m currently learning python,linux
-- 📫 How to reach me: https://ecarry.cc/
+- 📫 How to reach me: [ecarry.cc](https://ecarry.cc/)
