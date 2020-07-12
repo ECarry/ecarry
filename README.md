@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Service Operation
 - 🌱 I’m currently learning python,linux
+- 📫 How to reach me: ecarry.cc
