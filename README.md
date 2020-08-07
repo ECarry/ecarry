@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on System Operation Engineer
-- 🌱 I’m currently learning python,linux
+- 🌱 I’m currently learning Python,Linux,HCNA(Routing & Switching)
 - 📫 How to reach me: [ecarry.cc](https://ecarry.cc/)
