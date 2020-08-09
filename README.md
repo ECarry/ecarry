@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 <!--
 **ECarry/ecarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on System Operation Engineer
-- 🌱 I’m currently learning Python,Linux,HCNA(Routing & Switching)
-- 📫 How to reach me: [ecarry.cc](https://ecarry.cc/)
+- 🔭 I’m currently working on System Operation Engineer ⚙️
+- 🌱 I’m currently learning everything <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📫 How to reach me: [blog](https://ecarry.cc/)
