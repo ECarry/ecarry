@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on System Operation Engineer ⚙️
 - 🌱 I’m currently learning everything <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📫 How to reach me: [blog](https://ecarry.cc/)
+
 
 ### Programming Languages 🌐
 - Learning/Using
@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) |
 |---|
+
+### Reach me 🤝🏻 
+<a href="https://ecarry.cc/"><img alt="Website" src="https://img.shields.io/badge/Website-ecarry.cc-blue?style=flat-square&logo=google-chrome"></a>
