@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 ### Tools 🛠️
 - Learning/Using
 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) |
-|---|
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal logo" width="24">](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png) 
+|---|---|
 
 ### Reach me 🤝🏻 
 <a href="https://ecarry.cc/"><img alt="Website" src="https://img.shields.io/badge/Website-ecarry.cc-blue?style=flat-square&logo=google-chrome"></a>
