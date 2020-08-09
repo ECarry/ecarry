@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 ### Tools 🛠️
 - Learning/Using
 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) 
-
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) |
+|---|
