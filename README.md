@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on System Operation Engineer ⚙️
 - 🌱 I’m currently learning everything <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📫 How to reach me: [blog](https://ecarry.cc/)
+
+### Languages and Tools:
