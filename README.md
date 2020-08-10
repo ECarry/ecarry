@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br>
 <table>
-<tbody>
+<tbody align="center">
  <tr>
 <td align="center" width="20%">
 <span><b><center>Bash</center></b></span> 
