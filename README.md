@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Routering</center></b></span> 
+<span><b><center>Router</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/48/000000/cisco-router.png"> 
 </td>
 
@@ -104,9 +104,10 @@ Here are some ideas to get you started:
 
 ### Tools 🛠️
 - Learning/Using
-
-|[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode logo" width="30">](https://code.visualstudio.com/) |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal logo" width="24"> |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="terminal logo" width="24">|<img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="terminal logo" width="24">|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="terminal logo" width="24">|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="terminal logo" width="24">
-|---|---|---|---|---|---|
+<img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png"/>
+|[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode logo" width="30">](https://code.visualstudio.com/) |<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm logo" width="30"> |<img
+src="https://img.icons8.com/color/48/000000/markdown.png" alt="markdown logo" width="24">|<img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png" alt="notepad logo" width="24">|
+|---|---|---|---|
 
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/4c6432f21fbb2ccce51dcbffb5abe149" target="_blank">📊 Weekly development breakdown</a>
