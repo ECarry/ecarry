@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 |---|---|---|---|---|---|
 
 <!-- waka-box start -->
-
 <!-- waka-box end -->
 
 ### Reach me 🤝🏻 
