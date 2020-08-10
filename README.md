@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <tr>
 <td align="center" width="20%">
 <span><b><center>Bash</center></b></span> 
-<img height=60px src="<img src="https://img.icons8.com/clouds/60/000000/console.png"> 
+<img height=60px src="https://img.icons8.com/clouds/60/000000/console.png"> 
 </td>
 
 <td align="center" width="20%">
