@@ -72,11 +72,28 @@ Here are some ideas to get you started:
 </td>
 
 <td align="center" width="20%">
+<span><b><center>Server</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/60/000000/server.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Docker</center></b></span> 
+<img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png"> 
+</td>
+
+<td align="center" width="20%">
 <span><b><center>NGINX</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/60/000000/nginx.png"> 
 </td>
 
+<td align="center" width="20%">
+<span><b><center>Server</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/60/000000/server.png"> 
+</td>
 </tr>
+
 </tbody>
 </table>
 
