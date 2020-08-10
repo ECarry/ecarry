@@ -33,42 +33,42 @@ Here are some ideas to get you started:
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=60px src="https://img.icons8.com/nolan/2x/matlab.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
-
-<td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/python.png"> 
+<img height=60px src="https://img.icons8.com/dusk/60/000000/python.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Django</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/60/000000/django.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=60px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<span><b><center>MySQL</center></b></span> 
+<img height=60px src="https://img.icons8.com/ios/60/000000/mysql-logo.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
-<img height=60px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+<span><b><center>Linux</center></b></span> 
+<img height=60px src="https://img.icons8.com/dusk/64/000000/linux.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>VMware</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/60/000000/vmware.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Docker</center></b></span> 
+<img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>NGINX</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/60/000000/nginx.png"> 
 </td>
 
 
