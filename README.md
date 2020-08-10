@@ -83,14 +83,10 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
-<!--
-|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django logo" width="24">|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/) |
-|---|---|---|
--->
 
 ### Tools 🛠️
 - Learning/Using
-<img src="https://img.icons8.com/color/48/000000/sublime-text.png"/>
+
 |<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode logo" width="30">|<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm logo" width="30">|<img src="https://img.icons8.com/color/48/000000/markdown.png" alt="markdown logo" width="30">|<img src="https://img.icons8.com/color/48/000000/sublime-text.png" alt="sublime-text logo" width="30">|<img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png" alt="notepad logo" width="30">|
 |---|---|---|---|---|
 
