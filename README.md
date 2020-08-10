@@ -71,29 +71,6 @@ Here are some ideas to get you started:
 <img height=60px src="https://img.icons8.com/color/60/000000/nginx.png"> 
 </td>
 
-
-
-<td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/flutter.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=60px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/html-5.png"> 
-</td>
 </tr>
 
 </tbody>
