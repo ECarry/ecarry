@@ -79,18 +79,18 @@ Here are some ideas to get you started:
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png"> 
+<span><b><center>Routering</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/48/000000/cisco-router.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>NGINX</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/nginx.png"> 
+<span><b><center>Storage</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/60/000000/storage.png"> 
 </td>
-
+ 
 <td align="center" width="20%">
-<span><b><center>Server</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/server.png"> 
+<span><b><center>Git</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/60/000000/github-2.png"> 
 </td>
 </tr>
 
