@@ -71,8 +71,12 @@ Here are some ideas to get you started:
 <img height=60px src="https://img.icons8.com/color/60/000000/nginx.png"> 
 </td>
 
-</tr>
+<td align="center" width="20%">
+<span><b><center>NGINX</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/60/000000/nginx.png"> 
+</td>
 
+</tr>
 </tbody>
 </table>
 
