@@ -20,11 +20,89 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
-### Programming Languages 🌐
+### Tech Stack 🌐
 - Learning/Using
 
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>Bash</center></b></span> 
+<img height=60px src="<img src="https://img.icons8.com/clouds/60/000000/console.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Swift</center></b></span> 
+<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>NodeJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>MATLAB</center></b></span> 
+<img height=60px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Bash</center></b></span> 
+<img height=60px src="https://img.icons8.com/bubbles/2x/console.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>C++</center></b></span> 
+<img height=60px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+</td>
+
+
+
+<td align="center" width="20%">
+<span><b><center>Flutter</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/flutter.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=60px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<!--
 |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django logo" width="24">|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/) |
 |---|---|---|
+-->
 
 ### Tools 🛠️
 - Learning/Using
