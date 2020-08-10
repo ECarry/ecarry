@@ -105,8 +105,7 @@ Here are some ideas to get you started:
 ### Tools 🛠️
 - Learning/Using
 
-|<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode logo" width="30">|<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm logo" width="30">|<img
-src="https://img.icons8.com/color/48/000000/markdown.png" alt="markdown logo" width="30">|<img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png" alt="notepad logo" width="30">|
+|<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode logo" width="30">|<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm logo" width="30">|<img src="https://img.icons8.com/color/48/000000/markdown.png" alt="markdown logo" width="30">|<img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png" alt="notepad logo" width="30">|
 |---|---|---|---|
 
 <!-- waka-box start -->
