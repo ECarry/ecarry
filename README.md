@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 <span><b><center>Django</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/60/000000/django.png"> 
 </td>
-</tr>
 
-<tr>
 <td align="center" width="20%">
 <span><b><center>MySQL</center></b></span> 
 <img height=60px src="https://img.icons8.com/ios/60/000000/mysql-logo.png"> 
@@ -75,9 +73,7 @@ Here are some ideas to get you started:
 <span><b><center>Server</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/60/000000/server.png"> 
 </td>
-</tr>
 
-<tr>
 <td align="center" width="20%">
 <span><b><center>Router</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/48/000000/cisco-router.png"> 
