@@ -51,22 +51,17 @@ Here are some ideas to get you started:
 <span><b><center>Linux</center></b></span> 
 <img height=60px src="https://img.icons8.com/dusk/64/000000/linux.png"> 
 </td>
-
-<td align="center" width="20%">
-<span><b><center>VMware</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/vmware.png"> 
-</td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png"> 
+<span><b><center>VMware</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/60/000000/vmware.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>NGINX</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/nginx.png"> 
+<span><b><center>Docker</center></b></span> 
+<img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -82,11 +77,6 @@ Here are some ideas to get you started:
 <td align="center" width="20%">
 <span><b><center>Storage</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/60/000000/storage.png"> 
-</td>
- 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/github-2.png"> 
 </td>
 </tr>
 
