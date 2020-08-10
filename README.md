@@ -33,7 +33,12 @@ Here are some ideas to get you started:
 |---|---|---|---|---|---|
 
  <!-- waka-box start -->
- <!-- waka-box end -->
+📊 Weekly development breakdown
+```text
+Other 🕓 39m ███████████████████████████████████100.0%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
 
 ### Reach me 🤝🏻 
 <a href="https://ecarry.cc/"><img alt="Website" src="https://img.shields.io/badge/Website-ecarry.cc-blue?style=flat-square&logo=google-chrome"></a>
