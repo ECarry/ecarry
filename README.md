@@ -1,25 +1,9 @@
 ### Hi there 👋
 
-<!--
-**ECarry/ecarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Service Operation and maintenance
-- 🌱 I’m currently learning python,linux
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
 - 🔭 I’m currently working on System Operation Engineer ⚙️
 - 🌱 I’m currently learning everything <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-
+____
 ### Tech Stack 🌐
 - Learning/Using
 
@@ -89,7 +73,7 @@ Here are some ideas to get you started:
 
 |<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode logo" width="30">|<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm logo" width="30">|<img src="https://img.icons8.com/color/48/000000/markdown.png" alt="markdown logo" width="30">|<img src="https://img.icons8.com/color/48/000000/sublime-text.png" alt="sublime-text logo" width="30">|<img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png" alt="notepad logo" width="30">|
 |---|---|---|---|---|
-
+____
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/4c6432f21fbb2ccce51dcbffb5abe149" target="_blank">📊 Weekly development breakdown</a>
 ```text
