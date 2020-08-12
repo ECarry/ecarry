@@ -18,17 +18,17 @@ ____
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=60px src="https://img.icons8.com/dusk/60/000000/python.png"> 
+<img height=50px src="https://img.icons8.com/dusk/50/000000/python.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Django</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/django.png"> 
+<img height=50px src="https://img.icons8.com/color/50/000000/django.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>MySQL</center></b></span> 
-<img height=60px src="https://img.icons8.com/ios/60/000000/mysql-logo.png"> 
+<img height=50px src="https://img.icons8.com/ios/50/000000/mysql-logo.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -45,7 +45,7 @@ ____
 
 <td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
-<img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png"> 
+<img height=50px src="https://img.icons8.com/dusk/50/000000/docker.png"> 
 </td>
 
 <td align="center" width="20%">
