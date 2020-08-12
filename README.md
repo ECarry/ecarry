@@ -40,7 +40,7 @@ ____
 <tr>
 <td align="center" width="20%">
 <span><b><center>VMware</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/50/000000/vmware.png"> 
+<img height=60px src="https://img.icons8.com/color/48/000000/vmware.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -60,7 +60,7 @@ ____
 
 <td align="center" width="20%">
 <span><b><center>Storage</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/50/000000/storage.png"> 
+<img height=60px src="https://img.icons8.com/color/48/000000/storage.png"> 
 </td>
 </tr>
 
