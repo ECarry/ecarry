@@ -6,7 +6,7 @@
 ____
 ### Tech Stack 🌐
 - Learning/Using
-<p align="center">
+
 <br>
 <table>
 <tbody align="center">
@@ -66,7 +66,7 @@ ____
 
 </tbody>
 </table>
-</p>
+
 
 ### Tools 🛠️
 - Learning/Using
