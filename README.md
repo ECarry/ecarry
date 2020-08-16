@@ -12,7 +12,7 @@ ____
 <tbody align="center">
  <tr>
 <td align="center" width="20%">
-<span><b><center>Shell</center></b></span>  
+<span><b>Shell</b></span>  
 <img height=60px src="https://img.icons8.com/clouds/60/000000/console.png"> 
 </td>
 
