@@ -12,54 +12,54 @@ ____
 <tbody align="center">
  <tr>
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
+ 
 <img height=60px src="https://img.icons8.com/clouds/60/000000/console.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
+
 <img height=60px src="https://img.icons8.com/dusk/60/000000/python.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Django</center></b></span> 
+
 <img height=60px src="https://img.icons8.com/color/60/000000/django.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>MySQL</center></b></span> 
+
 <img height=60px src="https://img.icons8.com/ios/60/000000/mysql-logo.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Linux</center></b></span> 
+
 <img height=60px src="https://img.icons8.com/dusk/60/000000/linux.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>VMware</center></b></span> 
+
 <img height=60px src="https://img.icons8.com/color/60/000000/vmware.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
+
 <img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Server</center></b></span> 
+
 <img height=60px src="https://img.icons8.com/color/60/000000/server.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Router</center></b></span> 
+
 <img height=60px src="https://img.icons8.com/color/60/000000/cisco-router.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Storage</center></b></span> 
+
 <img height=60px src="https://img.icons8.com/color/60/000000/storage.png"> 
 </td>
 </tr>
