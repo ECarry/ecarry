@@ -12,45 +12,45 @@ ____
 <tbody align="center">
  <tr>
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span>  
+<span><b><center>Shell</center></b></span>  
 <img height=60px src="https://img.icons8.com/clouds/60/000000/console.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
+<span><b><center>Python</center></b></span> 
 <img height=60px src="https://img.icons8.com/dusk/60/000000/python.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/django.png"> 
+<span><b><center>Nginx</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/60/000000/nginx.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
+<span><b><center>MySQL</center></b></span> 
 <img height=60px src="https://img.icons8.com/ios/60/000000/mysql-logo.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
+<span><b><center>Linux</center></b></span> 
 <img height=60px src="https://img.icons8.com/dusk/60/000000/linux.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
+<span><b><center>VM</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/60/000000/vmware.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
+<span><b><center>Docker</center></b></span> 
 <img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/server.png"> 
+<span><b><center>IPtb</center></b></span> 
+<img height=60px src="https://img.icons8.com/dusk/60/000000/firewall.png"> 
 </td>
 
 <td align="center" width="20%">
