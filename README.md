@@ -7,65 +7,9 @@ ____
 ### Tech Stack 🌐
 - Learning/Using
 
-<br>
-<table>
-<tbody align="center">
- <tr>
-<td align="center" width="20%">
-<span><b>Shell</b></span>  
-<img height=60px src="https://img.icons8.com/clouds/60/000000/console.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b>Python</b></span> 
-<img height=60px src="https://img.icons8.com/dusk/60/000000/python.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b>Nginx</b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/nginx.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b>MySQL</b></span> 
-<img height=60px src="https://img.icons8.com/ios/60/000000/mysql-logo.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b>Linux</b></span> 
-<img height=60px src="https://img.icons8.com/dusk/60/000000/linux.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b>VM</b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/vmware.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b>Docker</b></span> 
-<img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b>IPtb</b></span> 
-<img height=60px src="https://img.icons8.com/dusk/60/000000/firewall.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b>Bash</b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/cisco-router.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b>Bash</b></span> 
-<img height=60px src="https://img.icons8.com/color/60/000000/storage.png"> 
-</td>
-</tr>
-
-</tbody>
-</table>
+|<img height=60px src="https://img.icons8.com/clouds/60/000000/console.png">|<img height=60px src="https://img.icons8.com/dusk/60/000000/python.png"> |<img height=60px src="https://img.icons8.com/color/60/000000/nginx.png">  |<img height=60px src="https://img.icons8.com/ios/60/000000/mysql-logo.png"> |<img height=60px src="https://img.icons8.com/dusk/60/000000/linux.png"> |<img height=60px src="https://img.icons8.com/color/60/000000/vmware.png"> |<img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png">|<img height=60px src="https://img.icons8.com/dusk/60/000000/firewall.png">|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Shell|Python|Nginx|MySQL|Linux|VMware|Docker|iptables|
 
 
 ### Tools 🛠️
