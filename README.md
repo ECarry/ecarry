@@ -17,49 +17,49 @@ ____
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
+<span><b>Python</b></span> 
 <img height=60px src="https://img.icons8.com/dusk/60/000000/python.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
+<span><b>Nginx</b></span> 
 <img height=60px src="https://img.icons8.com/color/60/000000/nginx.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>MySQL</center></b></span> 
+<span><b>MySQL</b></span> 
 <img height=60px src="https://img.icons8.com/ios/60/000000/mysql-logo.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Linux</center></b></span> 
+<span><b>Linux</b></span> 
 <img height=60px src="https://img.icons8.com/dusk/60/000000/linux.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>VM</center></b></span> 
+<span><b>VM</b></span> 
 <img height=60px src="https://img.icons8.com/color/60/000000/vmware.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
+<span><b>Docker</b></span> 
 <img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>IPtb</center></b></span> 
+<span><b>IPtb</b></span> 
 <img height=60px src="https://img.icons8.com/dusk/60/000000/firewall.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
+<span><b>Bash</b></span> 
 <img height=60px src="https://img.icons8.com/color/60/000000/cisco-router.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
+<span><b>Bash</b></span> 
 <img height=60px src="https://img.icons8.com/color/60/000000/storage.png"> 
 </td>
 </tr>
