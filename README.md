@@ -18,7 +18,7 @@ ____
 
 <td align="center" width="20%">
 <span><b>Python</b></span> 
-<img height=60px src="https://img.icons8.com/dusk/55/000000/python.png"> 
+<img height=60px src="https://img.icons8.com/dusk/40/000000/python.png"> 
 </td>
 
 <td align="center" width="20%">
