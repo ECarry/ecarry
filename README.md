@@ -23,7 +23,7 @@ ____
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/4c6432f21fbb2ccce51dcbffb5abe149" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Markdown 🕓 17m ████████████████████████████████100.0%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
