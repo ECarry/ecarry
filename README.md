@@ -1,17 +1,41 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on System Operation Engineer ⚙️
-- 🌱 I’m currently learning everything <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+        <h1>Hi 👋, I'm ECarry</h1>
 
-____
-### Tech Stack 🌐
-- Learning/Using
+    
+        <p></p>
+        
+    
+        <h2>🚀 Languages and Tools I Use</h2>
+        <p>
+            <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
+        </p>
 
-|<img height=60px src="https://img.icons8.com/clouds/60/000000/console.png">|<img height=60px src="https://img.icons8.com/dusk/60/000000/python.png"> |<img height=60px src="https://img.icons8.com/color/60/000000/nginx.png">  |<img height=60px src="https://img.icons8.com/ios/60/000000/mysql-logo.png"> |<img height=60px src="https://img.icons8.com/dusk/60/000000/linux.png"> |<img height=60px src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ansible_icon_132595.png"> |<img height=60px src="https://img.icons8.com/dusk/60/000000/docker.png">|<img height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">|<img src="https://img.icons8.com/dusk/60/000000/z.png"/>|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Shell|Python|Nginx|MySQL|Linux|Ansible|Docker|K8s|Zabbix|
+    
+        <h2>✒️ Recent Posts</h2>
+        <ul>
+            <li><a target="_blank" href=""></a></li>
+<li><a target="_blank" href="https://p.eacrry.me">Photography website</a></li>
+        </ul>
 
+    
+            <p>
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=ECarry&show_icons=true&locale=en" alt="ECarry" />
+            </p>
 
+        
+            <p>
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ECarry&" alt="ECarry" />
+            </p>
+
+        
+            <p>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ECarry&show_icons=true&locale=en&layout=compact" alt="ECarry" />
+            </p>
+
+        
 
 ### Tools 🛠️
 - Learning/Using
