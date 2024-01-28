@@ -1,39 +1,25 @@
-
-        <h1>Hi 👋, I'm ECarry</h1>
-
-    
-        <p></p>
-        
-    
-        <h2>🚀 Languages and Tools I Use</h2>
-        <p>
-            <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<h1>Hi 👋, I'm ECarry</h1>
+<p></p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
-        </p>
-
+</p>
     
-        <h2>✒️ Recent Posts</h2>
-        <ul>
-            <li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href="https://p.eacrry.me">Photography website</a></li>
-        </ul>
-
-    
-            <p>
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=ECarry&show_icons=true&locale=en" alt="ECarry" />
-            </p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ECarry&show_icons=true&locale=en" alt="ECarry" />
+</p>
 
         
-            <p>
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ECarry&" alt="ECarry" />
-            </p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ECarry&" alt="ECarry" />
+</p>
 
-        
-            <p>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ECarry&show_icons=true&locale=en&layout=compact" alt="ECarry" />
-            </p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ECarry&show_icons=true&locale=en&layout=compact" alt="ECarry" />
+</p>
 
         
 
