@@ -7,6 +7,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="prisma" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" alt="radix-ui" width="42" height="42" /></a>
 </p>
 
 <p>
