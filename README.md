@@ -8,7 +8,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="prisma" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" alt="radix-ui" width="42" height="42" /></a>
-<a target="_blank" href="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style="display: inline-block;"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="42" height="42" /></a>
+<a target="_blank" href="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style="display: inline-block;"><img src="https://img.icons8.com/color/128/000000/visual-studio-code-2019.png" alt="vscode" width="42" height="42" /></a>
 </p>
 
 <p>
@@ -31,13 +31,7 @@
 <h2>🌐 Server Hub website</h2>
 
 ![Alt](https://repobeats.axiom.co/api/embed/501b4a2283c6e250d31109ba0bb16d875dff15d8.svg "Repobeats analytics image")
-        
 
-### Tools 🛠️
-- Learning/Using
-
-|<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode logo" width="30">|<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm logo" width="30">|<img src="https://img.icons8.com/color/48/000000/markdown.png" alt="markdown logo" width="30">|<img src="https://img.icons8.com/color/48/000000/sublime-text.png" alt="sublime-text logo" width="30">|<img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png" alt="notepad logo" width="30">|
-|---|---|---|---|---|
 ____
 <h3 align="center"> Reach me 🤝🏻  </h3>
 <br />
