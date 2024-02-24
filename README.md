@@ -21,7 +21,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ECarry&show_icons=true&locale=en&layout=compact" alt="ECarry" />
 </p>
 
+## Photography website
+
 ![Alt](https://repobeats.axiom.co/api/embed/dbe79f1344daaff2b8db535d45457d8acd602d9f.svg "Repobeats analytics image")
+
+## Server Hub website
 
 ![Alt](https://repobeats.axiom.co/api/embed/501b4a2283c6e250d31109ba0bb16d875dff15d8.svg "Repobeats analytics image")
         
