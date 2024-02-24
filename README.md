@@ -8,7 +8,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="prisma" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" alt="radix-ui" width="42" height="42" /></a>
-<a target="_blank" href="[https://cdn.worldvectorlogo.com/logos/radix-ui.svg](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)" style="display: inline-block;"><img src="[https://cdn.worldvectorlogo.com/logos/radix-ui.svg](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)" alt="vscode" width="42" height="42" /></a>
+<a target="_blank" href="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style="display: inline-block;"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="42" height="42" /></a>
 </p>
 
 <p>
