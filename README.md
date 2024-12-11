@@ -28,10 +28,6 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/dbe79f1344daaff2b8db535d45457d8acd602d9f.svg "Repobeats analytics image")
 
-<h2>🌐 Server Hub website</h2>
-
-![Alt](https://repobeats.axiom.co/api/embed/501b4a2283c6e250d31109ba0bb16d875dff15d8.svg "Repobeats analytics image")
-
 ____
 <h3 align="center"> Reach me 🤝🏻  </h3>
 <br />
