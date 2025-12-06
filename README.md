@@ -17,10 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ECarry&show_icons=true&locale=en&layout=compact" alt="ECarry" />
 </p>
 
-<h2>🌐 Photography website</h2>
-
-![Alt](https://repobeats.axiom.co/api/embed/dbe79f1344daaff2b8db535d45457d8acd602d9f.svg "Repobeats analytics image")
-
 ____
 <h3 align="center"> Reach me 🤝🏻  </h3>
 <br />
