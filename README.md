@@ -16,10 +16,3 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ECarry&show_icons=true&locale=en&layout=compact" alt="ECarry" />
 </p>
-
-____
-<h3 align="center"> Reach me 🤝🏻  </h3>
-<br />
-<p align="center">
-<a href="https://ecarry.me/"><img alt="Website" src="https://img.shields.io/badge/Website-ecarry.me-green?style=flat-square&logo=google-chrome"></a>
-</p>
