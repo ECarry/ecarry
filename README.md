@@ -21,5 +21,5 @@ ____
 <h3 align="center"> Reach me 🤝🏻  </h3>
 <br />
 <p align="center">
-<a href="https://ecarry.me/"><img alt="Website" src="https://img.shields.io/badge/Website-ecarry.me-green?style=flat-square&logo=google-chrome"></a> <a href="mailto:lianshiliang93@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lianshiliang93@gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="https://ecarry.me/"><img alt="Website" src="https://img.shields.io/badge/Website-ecarry.me-green?style=flat-square&logo=google-chrome"></a>
 </p>
